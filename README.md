@@ -1,1 +1,1 @@
-# imdb-ratings-tableau
+# IMDb Movies Ratings Data analysis and Visualization using Tableau
